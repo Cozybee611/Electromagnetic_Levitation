@@ -11,7 +11,10 @@ MATLAB simulation for electromagnetic levitation control using Jacobian and Inpu
 ## Simulation Results
 
 ### 1. Jacobian Linearization Response
-![Jacobian Result](Electromagnetic_Levitation_Jacobian_Result.png)
+![Jacobian Result](Electromagnetic_Levitation-Jacobian.png)
 
-### 2. Switching Controller Response
-![Switching Result](Electromagnetic_Levitation_Switching_Result.png)
+### 2. Input Response
+![Switching Result](Electromagnetic_Levitation-Input.png)
+
+### 3. Switching Controller Response
+![Switching Result](Electromagnetic_Levitation-Switching_Control.png)
